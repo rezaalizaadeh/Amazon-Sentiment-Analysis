@@ -16,7 +16,7 @@ This project implements a machine learning pipeline to classify Amazon product r
 
 ## 📊 Results
 
-- Achieved ~88% accuracy on validation data
+- Achieved ~75% accuracy on validation data
 - Improved performance through randomized grid search
 
 ---
